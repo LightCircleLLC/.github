@@ -14,9 +14,6 @@ BOINCStats - Luminis Nobilite https://www.boincstats.com/stats/-1/team/detail/6b
 Github - https://github.com/LuminisNobilite [Main]
 https://github.com/LightCircleLLC [Alt]
 
-Guilded - https://www.guilded.gg/LuminisNobilite [Main]
-https://www.guilded.gg/LightCircle [Alt]
-
 MyAnimeList - https://myanimelist.net/clubs.php?cid=88902 [Main]
 https://myanimelist.net/clubs.php?cid=91256 [Alt]
 
