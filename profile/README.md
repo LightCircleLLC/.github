@@ -23,4 +23,4 @@ https://steamcommunity.com/groups/LightCircle [Alt]
 
 ### Luminis Network Links - Game Organizations
 
-Aether Gazer - Nobility (ID: 458763)
+Aether Gazer - N/A
