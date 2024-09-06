@@ -11,6 +11,9 @@ BOINCStats - Luminis Nobilite https://www.boincstats.com/stats/-1/team/detail/6b
 
 ### Luminis Network Links - Social Media
 
+Guilded - https://www.guilded.gg/LuminisNobilite [Main]
+https://www.guilded.gg/LightCircle [Alt]
+
 Github - https://github.com/LuminisNobilite [Main]
 https://github.com/LightCircleLLC [Alt]
 
