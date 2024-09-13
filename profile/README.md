@@ -11,14 +11,14 @@ BOINCStats - Luminis Nobilite https://www.boincstats.com/stats/-1/team/detail/6b
 
 ### Luminis Network Links - Social Media
 
-Github - https://github.com/LuminisNobilite [Main]
-https://github.com/LightCircleLLC [Alt]
+Github - https://github.com/LightCircleLLC [Main]
+https://github.com/LuminisNobilite [Alt]
 
-Guilded - https://www.guilded.gg/LuminisNobilite [Main]
-https://www.guilded.gg/LightCircle [Alt]
+Guilded - https://www.guilded.gg/LightCircle [Main]
+https://www.guilded.gg/LuminisNobilite [Alt]
 
-Steam - https://steamcommunity.com/groups/LuminisNobilite [Main]
-https://steamcommunity.com/groups/LightCircle [Alt]
+Steam - https://steamcommunity.com/groups/LightCircle [Main]
+https://steamcommunity.com/groups/LuminisNobilite [Alt]
 
 
 ### Luminis Network Links - Game Organizations
