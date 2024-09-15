@@ -8,6 +8,8 @@
 
 BOINCStats - Luminis Nobilite https://www.boincstats.com/stats/-1/team/detail/6b7b655dd22faa3f10677c512493a8a0
 
+Folding@Home - Light Circle https://stats.foldingathome.org/team/1065856
+
 
 ### Luminis Network Links - Social Media
 
