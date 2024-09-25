@@ -25,4 +25,6 @@ https://steamcommunity.com/groups/LuminisNobilite [Alt]
 
 ### Luminis Network Links - Game Organizations
 
-Aether Gazer - N/A
+Aether Gazer - Enchanting (ID: 917793)
+
+Honkai Impact 3rd - ToySwordS (ID: 2121)
