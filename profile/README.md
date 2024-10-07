@@ -16,9 +16,6 @@ Folding@Home - Light Circle https://stats.foldingathome.org/team/1065856
 Github - https://github.com/LightCircleLLC [Main]
 https://github.com/LuminisNobilite [Alt]
 
-Guilded - https://www.guilded.gg/LightCircle [Main]
-https://www.guilded.gg/LuminisNobilite [Alt]
-
 Steam - https://steamcommunity.com/groups/LightCircle [Main]
 https://steamcommunity.com/groups/LuminisNobilite [Alt]
 
