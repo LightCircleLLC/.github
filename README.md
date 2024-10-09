@@ -2,7 +2,7 @@
 
 ## Welcome to Light Circle, LLC
 
-[<img align="center" width="777" src="https://raw.githubusercontent.com/LuminisNobilite/Eclipse/main/Assets/Luminis%20Nobilite%20Official%20Branding/Luminis%20Nobilite%20Logo%20v2.png">](https://beacons.ai/reisonantia)
+[<img align="center" width="777" src="https://raw.githubusercontent.com/LightCircleLLC/Eclipse/refs/heads/main/Assets/Light%20Circle%20Official%20Branding/Light%20Circle%20Logo%20v1.png">](https://beacons.ai/reisonantia)
 
 ### Luminis Network Links - Distributed Computing
 
