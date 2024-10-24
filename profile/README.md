@@ -14,10 +14,10 @@ Folding@Home - Light Circle https://stats.foldingathome.org/team/1065856
 ### Luminis Network Links - Social Media
 
 Github - https://github.com/LightCircleLLC [Main]
-https://github.com/LuminisNobilite [Alt]
+https://github.com/ReitenPalace [Alt]
 
 Steam - https://steamcommunity.com/groups/LightCircle [Main]
-https://steamcommunity.com/groups/LuminisNobilite [Alt]
+https://steamcommunity.com/groups/ReitenPalace [Alt]
 
 
 ### Luminis Network Links - Game Organizations
